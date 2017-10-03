@@ -7,4 +7,4 @@
 <li>Basically everything to do with coding...</li></ul></p>
 <p><ol>The one thing I do understand:<br>
 <li>When you code, you use < > at the end of your commands.</li></ol></p>
-[Creative Coding 1](https://montana-media-arts.github.io/creative-coding-1/)
+[https://montana-media-arts.github.io/creative-coding-1/](Creative Coding 1)
