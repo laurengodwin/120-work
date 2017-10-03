@@ -4,4 +4,6 @@
 <p><ul>Some things I don't quite understand:
 <li>Git on the terminal</li>
 <li>How github desktop and atom can link together</li>
-<li>Basically everything to do with coding...</li>
+<li>Basically everything to do with coding...</li></p>
+<p><ol>The one thing I do understand:
+<li>When you code, you use < > at the end of your commands.</li>
