@@ -9,4 +9,4 @@
 <li>When you code, you use < > at the end of your commands.</li></ol></p>
 <h3>Here's a link to our class website</h3>
 <a href="https://montana-media-arts.github.io/creative-coding-1/">Creative Coding</a>
-<p>! [Image of my editor](screenshot1.jpg)
+<p>![Image of my editor](screenshot1.jpg)</p>
