@@ -7,8 +7,7 @@ function draw() {
     // background color is blue
     background( 'blue' );
 
-    // *****************************************************
-    // create a sandbox for the entire character
+    // SANDBOX
     push();
 
     // move the entire grid for this character to the center of the canvas
@@ -17,7 +16,8 @@ function draw() {
 
     // ** BODY **********************************
     push();
-    // body code goes here
+    // main shirt rectangle
+    rect( -150, -100, 300, 300 );
 
     pop();
     // **END BODY**
