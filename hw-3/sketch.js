@@ -3,6 +3,7 @@ function setup() {
   createCanvas( 600, 400);
   background( 'pink' );
 }
+
 // Declare the draw function
 function draw() {
 
