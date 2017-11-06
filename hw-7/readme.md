@@ -1,6 +1,6 @@
 Lauren Godwin, 50
 
-[Live Sketch Link](Your Live Link)
+[Live Sketch Link](https://laurengodwin.github.io/120-work/hw-7/)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
