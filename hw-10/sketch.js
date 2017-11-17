@@ -1,6 +1,5 @@
 let smileys = [];
 let t = 0;
-var rectY = [];
 
 function setup(){
     createCanvas( windowWidth, windowHeight );
@@ -87,17 +86,4 @@ function smileyFace( pos_x, pos_y, scale_x, scale_y ) {
 function sinePos( timeScale, time ) {
     let val = sin( TWO_PI * time/timeScale );
     return val;
-}
-//creating a rectangle
-function drawRectangle(); {
-    background (50);
-    noStroke();
-    rectMode(LEFT);
-    fill('rgb(2,138,145)');
-    for (var i = 0; i < rectY.length; i++) {
-      rect(200, rectY[i], 50, 25);
-      rectY[i] += 1;
-}
-function mousePressed() {
-  rectY.push(0);
 }
