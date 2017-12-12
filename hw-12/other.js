@@ -1,5 +1,5 @@
 let balls = [];
-const numOfBalls = 100;
+const numOfBalls = 2000;
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
@@ -38,11 +38,11 @@ class Ball {
         this.color6 = 'green';
         this.color7 = 'orange';
         this.color8 = 'white';
-        this.size = random(-10, 40);
+        this.size = random(-1, 5);
         this.rad = this.size / 2;
         this.posX = x;
         this.posY = y;
-        this.deltaX = random(30, -30);
+        this.deltaX = random(5, -30);
         this.deltaY = random(-30, 30);
     }
 //3 types of colored balls
